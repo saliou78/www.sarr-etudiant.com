@@ -1,0 +1,1 @@
+?php echo "BIENVENUE SUR MA PAGE"
